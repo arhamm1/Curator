@@ -55,11 +55,11 @@ Set up your environment and install the NeMo Curator image modules. The quicksta
 :link-type: ref
 Set up your environment and execute your first video curation pipeline. The instructions include prerequisites, installation options, and guidance on splitting, encoding, embedding, and exporting curated video clips at scale.
 
-:::{grid-item-card} {octicon}`video;1.5em;sd-mr-1` Audio Curation Quickstart
+:::
+
+:::{grid-item-card} {octicon}`audio;1.5em;sd-mr-1` Audio Curation Quickstart
 :link: gs-audio
 :link-type: ref
 Set up your environment and execute your first audio curation pipeline with NeMo Curator. Instructions cover  installation, data preparation, and use of the modular pipeline architecture for efficient large-scale audio speech dataset curation.
-
-:::
 
 ::::
